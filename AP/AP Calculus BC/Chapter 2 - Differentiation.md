@@ -1,4 +1,4 @@
-# 📊 Chapter 2: Differentiation
+📊 Chapter 2: Differentiation
 
 > **AP Exam Weight**: 25-35% | Multiple Choice: 10-14 questions | Free Response: Major focus in several questions
 
