@@ -21,7 +21,7 @@ After completing this chapter, you should be able to:
 
 ## 📚 Key Concepts
 
-## 1. Understanding Limits 📊 {#limits}
+## 1. Understanding Limits 📊
 
 ### What is a Limit?
 A limit describes what a function approaches as x gets closer and closer to a specific value. Think of it as:
