@@ -1,4 +1,5 @@
 # Chapter 7 - Parametric, Polar, and Vector Functions
+
 > **AP Exam Weight**: 10-15% | Multiple Choice: 4-6 questions | Free Response: Parts of several questions
 
 ## 📚 Table of Contents
