@@ -1,4 +1,4 @@
-# 📊 Chapter 1: Limits and Continuity
+📊 Chapter 1: Limits and Continuity
 
 > **AP Exam Weight**: 10-12% | Multiple Choice: 4-6 questions | Free Response: Part of several questions
 
