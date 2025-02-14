@@ -1,3 +1,4 @@
+# Practice Problems
 
 > **Note**: These problems mirror actual AP exam questions in style and difficulty.
 
