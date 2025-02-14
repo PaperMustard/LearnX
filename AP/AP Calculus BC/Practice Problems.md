@@ -83,16 +83,6 @@ Find the area inside r = 2sin θ.
 ## Differential Equations ⚡
 
 ### Problem 11
-Solve $\frac{dy}{dx} = 2xy$, y(0) = 1
-
-**Solution**:
-1. Separate: $\frac{dy}{y} = 2x dx$
-2. Integrate: ln|y| = x² + C
-3. y = Ce^{x²}
-4. Use y(0) = 1: C = 1
-5. y = e^{x²}
-
-### Problem 12
 Use Euler's method with Δx = 0.5 to approximate y(1) for:
 $\frac{dy}{dx} = x + y$, y(0) = 1
 
