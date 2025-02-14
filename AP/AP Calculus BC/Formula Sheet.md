@@ -1,3 +1,4 @@
+# Formula Sheet
 
 > **Note**: This comprehensive formula sheet covers all major topics in AP Calculus BC.
 
