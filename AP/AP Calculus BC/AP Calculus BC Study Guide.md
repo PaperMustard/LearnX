@@ -1,3 +1,4 @@
+# AP Calculus BC Study Guide
 
 > **Note**: A comprehensive guide to help you master AP Calculus BC concepts and prepare for the exam.
 
