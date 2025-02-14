@@ -1,4 +1,4 @@
-# 📊 Chapter 4: Integration
+# Chapter 4: Integration
 
 > **AP Exam Weight**: 25-35% | Multiple Choice: 10-14 questions | Free Response: Major focus in several questions
 
