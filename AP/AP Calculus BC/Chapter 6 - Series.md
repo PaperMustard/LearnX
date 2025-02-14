@@ -1,3 +1,4 @@
+# Chapter 6 - Series
 
 > **AP Exam Weight**: 15-25% | Multiple Choice: 6-10 questions | Free Response: Usually 1 full question
 
