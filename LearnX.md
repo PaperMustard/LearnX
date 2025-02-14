@@ -1,4 +1,4 @@
-# 📚 LearnX: Learn Anything, Master Everything
+#  LearnX: Learn Anything, Master Everything
 
 Welcome to LearnX - Your comprehensive learning hub designed to make complex subjects simple and accessible. Whether you're studying for AP exams, learning a new skill, or exploring a subject out of curiosity, LearnX provides structured, clear, and engaging content.
 
