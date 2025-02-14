@@ -3,21 +3,21 @@
 > **Note**: This comprehensive formula sheet covers all major topics in AP Calculus BC.
 
 ## 📚 Table of Contents
-1. [Limits & Continuity](#limits)
-2. [Derivatives](#derivatives)
-3. [Integration](#integration)
-4. [Series](#series)
-5. [Parametric/Polar](#parametric)
-6. [Differential Equations](#diffeq)
+1. [Limits & Continuity]
+2. [Derivatives]
+3. [Integration]
+4. [Series]
+5. [Parametric/Polar]
+6. [Differential Equations]
 
-## Limits & Continuity 📊 {#limits}
+## Limits & Continuity 📊
 
 ### Special Limits
 - $\lim_{x \to 0} \frac{\sin x}{x} = 1$
 - $\lim_{x \to 0} \frac{1-\cos x}{x} = 0$
 - $\lim_{x \to \infty} (1 + \frac{1}{x})^x = e$
 
-## Derivatives 📈 {#derivatives}
+## Derivatives 📈
 
 ### Basic Rules
 - Power Rule: $\frac{d}{dx}[x^n] = nx^{n-1}$
@@ -35,7 +35,7 @@
 | $\ln x$ | $\frac{1}{x}$ |
 | $a^x$ | $a^x \ln a$ |
 
-## Integration 🔄 {#integration}
+## Integration 🔄
 
 ### Basic Integrals
 - $\int x^n dx = \frac{x^{n+1}}{n+1} + C$, $n \neq -1$
@@ -54,7 +54,7 @@
 3. **Partial Fractions**
    - Decompose rational functions
 
-## Series 📊 {#series}
+## Series 📊
 
 ### Convergence Tests
 1. **Ratio Test**
@@ -78,7 +78,7 @@ $f(x) = \sum_{n=0}^{\infty} \frac{f^{(n)}(a)}{n!}(x-a)^n$
 3. $\cos x = \sum_{n=0}^{\infty} \frac{(-1)^n x^{2n}}{(2n)!}$
 4. $\frac{1}{1-x} = \sum_{n=0}^{\infty} x^n$, |x| < 1
 
-## Parametric/Polar 🎯 {#parametric}
+## Parametric/Polar 🎯
 
 ### Parametric Derivatives
 $\frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}$
@@ -90,7 +90,7 @@ $\frac{dy}{dx} = \frac{\frac{dy}{dt}}{\frac{dx}{dt}}$
 - Area: $A = \frac{1}{2}\int_α^β r^2 dθ$
 - Arc Length: $L = \int_α^β \sqrt{r^2 + (\frac{dr}{dθ})^2}dθ$
 
-## Differential Equations ⚡ {#diffeq}
+## Differential Equations ⚡
 
 ### First Order
 1. **Separable**
