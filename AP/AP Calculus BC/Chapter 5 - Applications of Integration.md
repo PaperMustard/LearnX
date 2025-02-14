@@ -1,4 +1,4 @@
-# 📊 Chapter 5: Applications of Integration
+# Chapter 5: Applications of Integration
 
 > **AP Exam Weight**: 20-30% | Multiple Choice: 8-12 questions | Free Response: Major focus in several questions
 
@@ -131,7 +131,7 @@ Find volume when y = x² is rotated about y-axis from y = 0 to y = 4
    - Wrong substitution
    - Integration mistakes
 
-## 2. Average Value {#average}
+## 2. Average Value
 
 ### Understanding Average Value
 The average value of a function over an interval. Think of it as:
@@ -163,7 +163,7 @@ Find average value of f(x) = x² on [0,2]
    - $= \frac{1}{2}[\frac{8}{3} - 0]$
    - $= \frac{4}{3}$
 
-## 3. Cross Sections {#cross}
+## 3. Cross Sections
 
 ### Understanding Cross Sections
 The area of a cross-section of a solid. Think of it as:
@@ -196,7 +196,7 @@ Find area of cross-section of solid with f(x) = x²
    - $= [\frac{x^3}{3}]_0^2$
    - $= \frac{8}{3}$
 
-## 4. Arc Length 📐 {#length}
+## 4. Arc Length 📐
 
 ### Understanding Arc Length
 The true distance along a curve. Think of it as:
@@ -238,7 +238,7 @@ Find length of y = x² from x = 0 to x = 1
    - u = 2x
    - Result involves ln
 
-## 5. Integration Applications {#applications}
+## 5. Integration Applications
 
 ### Understanding Integration Applications
 Integration has various applications in calculus. Think of it as:
