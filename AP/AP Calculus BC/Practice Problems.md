@@ -3,14 +3,14 @@
 > **Note**: These problems mirror actual AP exam questions in style and difficulty.
 
 ## 📚 Table of Contents
-1. [Limits & Continuity](#limits)
-2. [Derivatives](#derivatives)
-3. [Integration](#integration)
-4. [Series](#series)
-5. [Parametric/Polar](#parametric)
-6. [Differential Equations](#diffeq)
+1. [Limits & Continuity]
+2. [Derivatives]
+3. [Integration]
+4. [Series]
+5. [Parametric/Polar]
+6. [Differential Equations]
 
-## Limits & Continuity 📊 {#limits}
+## Limits & Continuity 📊
 
 ### Problem 1
 Evaluate $\lim_{x \to 0} \frac{\sin(3x)}{x}$
@@ -26,7 +26,7 @@ x^2 + k & x < 2 \\
 kx + 1 & x \geq 2
 \end{cases}$
 
-## Derivatives 📈 {#derivatives}
+## Derivatives 📈
 
 ### Problem 3
 Find $\frac{d}{dx}[\ln(\sin x)]$
@@ -38,7 +38,7 @@ Find $\frac{d}{dx}[\ln(\sin x)]$
 ### Problem 4
 If $f'(x) = x^2e^x$ and f(0) = 1, find f(x).
 
-## Integration 🔄 {#integration}
+## Integration 🔄
 
 ### Problem 5
 Evaluate $\int_0^1 xe^{x^2}dx$
@@ -52,7 +52,7 @@ Evaluate $\int_0^1 xe^{x^2}dx$
 ### Problem 6
 Find the area between y = sin x and y = cos x from 0 to π/4.
 
-## Series 📊 {#series}
+## Series 📊
 
 ### Problem 7
 Determine if $\sum_{n=1}^{\infty} \frac{2^n}{n!}$ converges.
@@ -65,7 +65,7 @@ Determine if $\sum_{n=1}^{\infty} \frac{2^n}{n!}$ converges.
 ### Problem 8
 Find the Taylor series for ln(1+x) centered at a = 0.
 
-## Parametric/Polar 🎯 {#parametric}
+## Parametric/Polar 🎯
 
 ### Problem 9
 Find $\frac{dy}{dx}$ for:
@@ -80,7 +80,7 @@ y = t³ + t
 ### Problem 10
 Find the area inside r = 2sin θ.
 
-## Differential Equations ⚡ {#diffeq}
+## Differential Equations ⚡
 
 ### Problem 11
 Solve $\frac{dy}{dx} = 2xy$, y(0) = 1
